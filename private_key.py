@@ -1,0 +1,1 @@
+pv_key = "" # Private key of the bot account
